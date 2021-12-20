@@ -1,0 +1,26 @@
+---
+mystudents:
+- name: anil
+  phno: 88888888
+  address: 
+     - doorno: 534
+     - steetno: 2nd
+     - place: hyd
+     - pincode: 5000001
+# we should follw same pacc notation  under key
+  
+- name: ankit
+  phno: 77777777
+  address: 
+      - doorno: 534
+      - steetno: 2nd
+      - place: hyd
+      - pincode: 5000001
+
+- name: ramesh
+  phno: 66666666
+  address: 
+    - doorno: 534
+    - steetno: 2nd
+    - place: hyd
+    - pincode: 5000001
