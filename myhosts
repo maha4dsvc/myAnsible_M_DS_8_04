@@ -20,5 +20,5 @@
 
 
 [mywebservers:vars]
-mywebpackforubntu= apache222222222
+mywebpackforubntu= apache2
 mywebpackforredhat= httpd
